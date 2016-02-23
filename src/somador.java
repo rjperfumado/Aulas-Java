@@ -26,5 +26,5 @@ public class somador {
      
         System.out.println("\n\nA soma dos dois numeros é: " + total );
        
-    }
+     }
 }
