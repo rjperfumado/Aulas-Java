@@ -52,7 +52,7 @@ public class calculadora {
    	
 	// Bloco de multiplicação
    	
-   	if (opcao == 2 ){
+   	if (opcao == 2 ){ 
     		
    		System.out.print("\nDigite o primeiro numero: ");
         n1 = entrada.nextInt();
